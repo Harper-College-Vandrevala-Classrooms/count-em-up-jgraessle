@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.csc.TestGroceryCounter" tests="12" skipped="0" failures="0" errors="0" timestamp="2024-09-16T00:50:49" hostname="JEROMESLAPTOP" time="0.073">
+  <properties/>
+  <testcase name="FiveTensWorks()" classname="com.csc.TestGroceryCounter" time="0.027"/>
+  <testcase name="ZeroTenthsWorks()" classname="com.csc.TestGroceryCounter" time="0.002"/>
+  <testcase name="TenHundrethsWorks()" classname="com.csc.TestGroceryCounter" time="0.002"/>
+  <testcase name="TenTenthsWorks()" classname="com.csc.TestGroceryCounter" time="0.003"/>
+  <testcase name="FiveHundrethsWorks()" classname="com.csc.TestGroceryCounter" time="0.002"/>
+  <testcase name="ZeroHundrethsWorks()" classname="com.csc.TestGroceryCounter" time="0.001"/>
+  <testcase name="ZeroOnesWorks()" classname="com.csc.TestGroceryCounter" time="0.003"/>
+  <testcase name="ZeroTensWorks()" classname="com.csc.TestGroceryCounter" time="0.002"/>
+  <testcase name="TenOnesWorks()" classname="com.csc.TestGroceryCounter" time="0.001"/>
+  <testcase name="TenTensWorks()" classname="com.csc.TestGroceryCounter" time="0.002"/>
+  <testcase name="FiveOnesWorks()" classname="com.csc.TestGroceryCounter" time="0.001"/>
+  <testcase name="FiveTenthsWorks()" classname="com.csc.TestGroceryCounter" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
